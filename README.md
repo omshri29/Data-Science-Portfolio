@@ -5,4 +5,4 @@ The aim of portfolio is to represent my accomplishment with Data Science techniq
 
  
 ### Project:
-. Prediction of TPA assigned to patients.
+* Prediction of TPA assigned to patients.
