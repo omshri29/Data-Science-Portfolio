@@ -27,3 +27,4 @@ First, we decide the parameter to measure, since it is a classification problem 
 (TPA/TPA models with master payor and original payor name.ipynb)
 
 Performance Comparison: 
+![Alt_Text](TPA/tpa_comparison.jpg)
