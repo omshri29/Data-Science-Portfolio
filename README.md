@@ -14,7 +14,9 @@ The aim of portfolio is to represent my accomplishment with Data Science techniq
 
 First, we decide the parameter to measure, since it is a classification problem and we have to predict multiple classes, the optimum matric would be Logloss, F1 macro Scores keeping in mind accuracy paradox. 
 1. Create a baseline model as shown below. Hence, we can compare the performance of each ML/Deep Learning techniques with it. 
+
 ![Alt text](/baseline_score.jpg)
-3. After creating models with below following ML/DL techniques will compare the score and select the highest performing model. link( code )
+
+. After creating models with below following ML/DL techniques will compare the score and select the highest performing model. link( code )
 
 Performance Comparison: 
