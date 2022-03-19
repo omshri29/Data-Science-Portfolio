@@ -7,13 +7,14 @@ The aim of portfolio is to represent my accomplishment with Data Science techniq
 ### Business Case Studies:
 ## Project name: Clear TPA
 
-* Problem Statement: Find/Predict TPA(class) based on historical data. In pre-authorization business, healthcare doctors need to get pre-authorization/permission before performing certain medical services such as Mri, Ct scan, PET scan etc from a TPA chosen by patients’ health insurance.
+* Problem Statement: Find/Predict TPA(class) based on historical data. In pre-authorization business, healthcare doctors need to get pre-authorization/permission before performing certain medical services such as Mri, Ct scan, PET scan etc from a TPA chosen by patients’ health insurance. 
   Agents who are working on behalf of doctors have to call the health insurance companies to find out how is the tpa for pre-authorization and then they call the tpa to place pre-authorization request. In this process, agents spent at least 10 mins per pre-authorization request to find out which tpa to call. But if we can find out which tpa to call, then it can significantly improve labour hours by 10 mins for each agent where there are 150 agents works . 
 
 * Application ML/Deep Learning Techniques:
 
 First, we decide the parameter to measure, since it is a classification problem and we have to predict multiple classes, the optimum matric would be Logloss, F1 macro Scores keeping in mind accuracy paradox. 
-1. Create a baseline model as shown below. Hence, we can compare the performance of each ML/Deep Learning techniques with it. 
+1. Create a baseline model as shown below. Hence, we can compare the performance of each ML/Deep Learning techniques with it. It is achieved by generating random numbers equal to the number of classes and randomly distribute it accross the length of the data.
+Reference: https://stackoverflow.com/questions/18659858/generating-a-list-of-random-numbers-summing-to-1/18662466#18662466
 
 ![Alt text](/baseline_score.jpg)
 
@@ -42,7 +43,7 @@ This indicates classes are highly imbalanced
 
 5. **Conclusion:**
 
-Based on the F1 scores, it is clear that the Catboost technique has given better output such as the the fluctuation between scores of train, test and cv is less and higher in comparison to other techniques which implice less overfit and higher prediction. 
+Based on the F1 scores, it is clear that the Catboost technique has given better output such as the the fluctuation between scores of train, test and cv is less which implace less overfit and Catboost has the highest score.  
 
 
 ![Alt_Text](TPA/tpa_classreport.jpg)
