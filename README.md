@@ -24,4 +24,6 @@ First, we decide the parameter to measure, since it is a classification problem 
 
 3. After creating models with below following ML/DL techniques will compare the score and select the highest performing model. link( code )
 
+![Alt text](TPA/TPA models with master payor and original payor name.ipynb)
+
 Performance Comparison: 
