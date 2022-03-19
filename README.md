@@ -34,8 +34,10 @@ First, we decide the parameter to measure, since it is a classification problem 
    * Multilayered perceptron(MLP)
    * Catboost and other (adaboost,discriminant,stackingclassifier,voterclassifier are optional if performance required improvement)
 
-[refer ipython notebook](https://github.com/omshri29/Data-Science-Portfolio/blob/a2f957b258d9f5494772319f7f0556cc9db1309e/TPA/TPA%20models%20with%20master%20payor%20and%20original%20payor%20name.ipynb)
+[Please refer the ipython notebook](https://github.com/omshri29/Data-Science-Portfolio/blob/a2f957b258d9f5494772319f7f0556cc9db1309e/TPA/TPA%20models%20with%20master%20payor%20and%20original%20payor%20name.ipynb)
 
-**Performance Comparison:** 
+*Performance Comparison:
 
 ![Alt_Text](TPA/tpa_comparison.jpg)
+
+
