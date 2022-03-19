@@ -43,3 +43,6 @@ First, we decide the parameter to measure, since it is a classification problem 
 5. **Conclusion:**
 
 Based on the F1 scores, it is clear that the Catboost technique has given better output such as the the fluctuation between scores of train, test and cv is less and higher in comparison to other techniques which implice less overfit and higher prediction. 
+
+
+![Alt_Text](TPA/tpa_classreport.jpg)
