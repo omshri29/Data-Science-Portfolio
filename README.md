@@ -17,6 +17,8 @@ First, we decide the parameter to measure, since it is a classification problem 
 
 ![Alt text](/baseline_score.jpg)
 
+
+![Alt text](TPA/TPAClass_dist.jpg)
 2. After creating models with below following ML/DL techniques will compare the score and select the highest performing model. link( code )
 
 Performance Comparison: 
