@@ -18,6 +18,7 @@ First, we decide the parameter to measure, since it is a classification problem 
 ![Alt text](/baseline_score.jpg)
 
 2. Class Distribution:
+
 ![Alt text](TPA/TPAClass_dist.jpg)
 
 
