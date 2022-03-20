@@ -5,6 +5,9 @@ The aim of portfolio is to represent my accomplishment with Data Science techniq
 
  
 ### Business Case Studies:
+## Claim Denial Prediction:
+## Pre-Auth Approval Prediction:
+## BitCoin Price Forcasting:
 ## Project name: Clear TPA
 
 * Problem Statement: Find/Predict TPA(class) based on historical data. In pre-authorization business, healthcare doctors need to get pre-authorization/permission before performing certain medical services such as Mri, Ct scan, PET scan etc from a TPA chosen by patients’ health insurance. 
