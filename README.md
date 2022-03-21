@@ -6,6 +6,9 @@ The aim of portfolio is to represent my accomplishment with Data Science techniq
  
 ### Business Case Studies:
 ## Claim Denial Prediction:
+* Problem statement: Every billing cycle there is at least 10% health insurance claim gets denied for verious reason. The affort to appeal and reverse those claims cost time and money. In many cases appeal filling time limit of those cases excesseds if we get to know which claim is going to deny and which will pay it was save anormous time for the billing team hence case may settle to pay with proper plan of action ready in advance of the denial of the insurance.
+
+
 ## Pre-Auth Approval Prediction:
 ## BitCoin Price Forcasting:
 ## Project name: Clear TPA
