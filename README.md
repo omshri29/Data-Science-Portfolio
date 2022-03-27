@@ -9,11 +9,38 @@ The aim of portfolio is to represent my accomplishment with Data Science techniq
 * Problem statement:In healthcare  billing system there are at least 10% claims gets denied for verious reason. The affort to appeal and reverse those claims costs time and money and in many cases the appeals time limit excesseds and billing company has to bare losses. But if we get to know which claim is going to deny and which will be paid billing company will have plan of action prior to denial of the claim and hence can save the losses due to denials.
 
 
-## Pre-Auth Approval Prediction:
+## Authorization Request approval request prediction:
+* Problem statement: In US heatlhcare system before performing/recommending any high-tech radiology exam such as Mri,Ct Scan, Pet Scans etc doctors must optain permission(Pre-Authorization) before performing it. 
+* This pre-authorization are given by the patients health insurance or by the tpa's which are hired by the heath insurance based on the medical necessity.
+* One of the largest tpa is Carecore and it utilizes an AI to determine whether authorization is to be given or not based on the information submitted to them by the doctors.
+* About 5000 to 8000 pre-authorization requestes are filed by us and only 60% of those are approved instanously and the rest are moved to review by medical prefessionals of Carecore. 
+* As per the business need it is necessary to determine which of the 60% will be approved in order to maintain or schedule appointments of the patients. That means we need to predict which of the authorization request will approve. 
+
+* Attributes and its description:
+
+1. target:- The target value is '0' and '1' means approval and denial of a pre-authorization request filed to a Health Insurance or to its TPA who works behalf of the patients health insurance. 
+
+2. clean_mod :- It represents a modification to the medical service given to the patient example: MRI needs to be performed by focusing a perticular body part.
+
+3. gender : It represents the gender of the patient. 
+
+4. Insurance_type:- It represents whether the health insurance is primary or secondary.
+
+5. prefix:- It represents prefix attached to health insurance member ids.
+
+6. actual_ins :- Patients health insurance name.
+
+7. Ins_class :- It represent whether the patients health insurance is Non-financial or financial origanization.
+
+8. cpt_description :- It represents the name of the medical procedure. 
+
+9. icd_description :- It the diseases of the patient diagnosed by a doctor. 
+10. pat_age : Patients age in days.
+
 ## BitCoin Price Forcasting:
 ## Project name: Clear TPA
 
-* Problem Statement: Find/Predict TPA(class) based on historical data. In pre-authorization business, healthcare doctors need to get pre-authorization/permission before performing certain medical services such as Mri, Ct scan, PET scan etc from a TPA chosen by patients’ health insurance. 
+* Problem Statement: Find/Predict TPA(class) based on historical data. Inn pre-authorization business, healthcare doctors need to get pre-authorization/permission before performing certain medical services such as Mri, Ct scan, PET scan etc from a TPA chosen by patients’ health insurance. 
   Agents who are working on behalf of doctors have to call the health insurance companies to find out how is the tpa for pre-authorization and then they call the tpa to place pre-authorization request. In this process, agents spent at least 10 mins per pre-authorization request to find out which tpa to call. But if we can find out which tpa to call, then it can significantly improve labour hours by 10 mins for each agent where there are 150 agents works . 
 
 * Application ML/Deep Learning Techniques:
