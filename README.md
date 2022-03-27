@@ -11,29 +11,21 @@ The aim of portfolio is to represent my accomplishment with Data Science techniq
 
 ## Authorization Request approval request prediction:
 * Problem statement: In US heatlhcare system before performing/recommending any high-tech radiology exam such as Mri,Ct Scan, Pet Scans etc doctors must optain permission(Pre-Authorization) before performing it. 
-* This pre-authorization are given by the patients health insurance or by the tpa's which are hired by the heath insurance based on the medical necessity.
-* One of the largest tpa is Carecore and it utilizes an AI to determine whether authorization is to be given or not based on the information submitted to them by the doctors.
-* About 5000 to 8000 pre-authorization requestes are filed by us and only 60% of those are approved instanously and the rest are moved to review by medical prefessionals of Carecore. 
-* As per the business need it is necessary to determine which of the 60% will be approved in order to maintain or schedule appointments of the patients. That means we need to predict which of the authorization request will approve. 
+1. This pre-authorization are given by the patients health insurance or by the tpa's which are hired by the heath insurance based on the medical necessity.
+2. One of the largest tpa is Carecore and it utilizes an AI to determine whether authorization is to be given or not based on the information submitted to them by the doctors.
+3. About 5000 to 8000 pre-authorization requestes are filed by us and only 60% of those are approved instanously and the rest are moved to review by medical prefessionals of Carecore. 
+4. As per the business need it is necessary to determine which of the 60% will be approved in order to maintain or schedule appointments of the patients. That means we need to predict which of the authorization request will approve. 
 
 * Attributes and its description:
 
 1. target:- The target value is '0' and '1' means approval and denial of a pre-authorization request filed to a Health Insurance or to its TPA who works behalf of the patients health insurance. 
-
 2. clean_mod :- It represents a modification to the medical service given to the patient example: MRI needs to be performed by focusing a perticular body part.
-
 3. gender : It represents the gender of the patient. 
-
 4. Insurance_type:- It represents whether the health insurance is primary or secondary.
-
 5. prefix:- It represents prefix attached to health insurance member ids.
-
 6. actual_ins :- Patients health insurance name.
-
 7. Ins_class :- It represent whether the patients health insurance is Non-financial or financial origanization.
-
 8. cpt_description :- It represents the name of the medical procedure. 
-
 9. icd_description :- It the diseases of the patient diagnosed by a doctor. 
 10. pat_age : Patients age in days.
 
