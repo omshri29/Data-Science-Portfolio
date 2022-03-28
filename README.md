@@ -31,6 +31,7 @@ The aim of portfolio is to represent my accomplishment with Data Science techniq
 
 * EDA
 Class distribution: 
+
 ![Alt text](TPre-auth/target_ratio.jpg)
 
 
