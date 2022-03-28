@@ -29,6 +29,10 @@ The aim of portfolio is to represent my accomplishment with Data Science techniq
 9. icd_description :- It the diseases of the patient diagnosed by a doctor. 
 10. pat_age : Patients age in days.
 
+* EDA
+Class distribution:
+
+
 ## BitCoin Price Forcasting:
 ## Project name: Clear TPA
 
