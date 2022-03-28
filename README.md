@@ -49,6 +49,13 @@ Class report of Baseline model shows 0.50 recall and precision:
 
 ![Alt text](Pre-auth/Preauth_score.jpg)
 
+* XGB AUC 
+
+![Alt text](Pre-auth/preauth_xgb_auc.jpg)
+
+* XGB Class Report and LogLoss:
+
+![Alt text](Pre-auth/xgb_class_report.jpg)
 
 3. Conclusion: 
 
