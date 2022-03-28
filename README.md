@@ -44,8 +44,13 @@ Class report of Baseline model shows 0.50 recall and precision:
 
 ![Alt text](Pre-auth/PREAUTH_BASELINE.jpg)
 
+2. AUC of all algorithms:
 
-2. Performance Comparison after applying ML/DL techniques:
+a. Navie Bayes-AUC Curve:
+
+
+
+3. Performance Comparison after applying ML/DL techniques:
 
 ![Alt text](Pre-auth/Preauth_score.jpg)
 
@@ -57,7 +62,7 @@ Class report of Baseline model shows 0.50 recall and precision:
 
 ![Alt text](Pre-auth/xgb_class_report.jpg)
 
-3. Conclusion: 
+4. Conclusion: 
 
 Based on the scores in XGB scores are more consistant with F1 scores among the Train, Test and sc and another model is Random forest which also close to XGB scores.
 
