@@ -66,6 +66,21 @@ e. Random Forest - AUC Curve
 
 ![Alt text](Pre-auth/preauth_decisiontree.jpg)
 
+f. Catboost - AUC Curve
+
+![Alt text](Pre-auth/preaut_Catboost_auc.jpg)
+
+g. Adaboost - AUC Curve
+
+![Alt text](Pre-auth/preauth_adaboost_auc.jpg)
+
+h. light_xgb-AUC Curve
+
+![Alt text](Pre-auth/preauth_lgbm_auc.jpg)
+
+i. XGBoost - AUC Curve
+
+![Alt text](Pre-auth/preauth_xgb_auc.jpg)
 
 3. Performance Comparison after applying ML/DL techniques:
 
