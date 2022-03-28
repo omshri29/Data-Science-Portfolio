@@ -41,10 +41,10 @@ Reference: https://stackoverflow.com/questions/18659858/generating-a-list-of-ran
 
 Class report of Baseline model shows 0.50 recall and precision:
 
+![Alt text](Pre-auth/PREAUTH_BASELINE.jpg)
 
 
-![Alt text](Pre-auth/target_ratio.jpg)
-3.
+2.
 
 ## BitCoin Price Forcasting:
 ## Project name: Clear TPA
