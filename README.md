@@ -47,7 +47,24 @@ Class report of Baseline model shows 0.50 recall and precision:
 2. AUC of all algorithms:
 
 a. Navie Bayes-AUC Curve:
-![Alt text]()
+
+![Alt text](Pre-auth/Preauth_NavieBayes_AUC.jpg)
+
+b. Logistic Regression-AUC Curve:
+
+![Alt text](Pre-auth/pre_auth_Logistic.jpg)
+
+c. SVM-AUC Curve:
+
+![Alt text](Pre-auth/PreAuth_SVM_AUC.jpg)
+
+d. Decision Tree-AUC Curve:
+
+![Alt text](Pre-auth/preauth_decisiontree.jpg)
+
+e. Random Forest - AUC Curve
+
+![Alt text](Pre-auth/preauth_decisiontree.jpg)
 
 
 3. Performance Comparison after applying ML/DL techniques:
