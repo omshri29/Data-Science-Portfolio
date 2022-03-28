@@ -6,7 +6,28 @@ The aim of portfolio is to represent my accomplishment with Data Science techniq
  
 # Business Case Studies:
 ## Claim Denial Prediction:
-* Problem statement:In healthcare  billing system there are at least 10% claims gets denied for verious reason. The affort to appeal and reverse those claims costs time and money and in many cases the appeals time limit excesseds and billing company has to bare losses. But if we get to know which claim is going to deny and which will be paid billing company will have plan of action prior to denial of the claim and hence can save the losses due to denials.
+* Problem statement: In healthcare  billing system there are at least 10% claims gets denied for verious reason. The affort to appeal and reverse those claims costs time and money and in many cases the appeals time limit excesseds and billing company has to bare losses. But if we get to know which claim is going to deny and which will be paid billing company will have plan of action prior to denial of the claim and hence can save the losses due to denials.
+
+* Data Description:
+
+Predict
+1. Denial_Ind- Claim is denied or paid 
+2. Denial_Code- Type of denial
+3. Denial_Group- Denial are grouped in groups such eligibility denial or service not covered  
+
+Attribute
+
+4. Primary_Carrier_ID- Payer/Insurance is given a code internally
+5. Place_Of_Service- where the service is performed outpatient or inpatient
+6. Department- where the service performed under oncology etc
+7. Procedure_ID- the service such Mri scan or CT scan are given a standard code.
+8. Procedure_Group: the different types of Mri are grouped under Mri.
+9. Paying_Carrier_Type: Insurance type
+10. Modifier: Any service modification is indicated by Modifier.
+11. Amount: Claim amount billed 
+12. Is_Facility: The Medical center or diagnostic is in contract with the payer or not 
+13. dx_grp: Diseases group
+
 
 
 ## Authorization Request approval request prediction:
