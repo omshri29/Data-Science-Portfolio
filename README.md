@@ -28,6 +28,8 @@ Attribute
 12. Is_Facility: The Medical center or diagnostic is in contract with the payer or not 
 13. dx_grp: Diseases group
 
+* EDA
+
 
 
 ## Authorization Request approval request prediction:
