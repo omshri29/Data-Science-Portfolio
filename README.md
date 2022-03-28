@@ -30,7 +30,8 @@ The aim of portfolio is to represent my accomplishment with Data Science techniq
 10. pat_age : Patients age in days.
 
 * EDA
-Class distribution:
+Class distribution: 
+![Alt text](TPre-auth/target_ratio.jpg)
 
 
 ## BitCoin Price Forcasting:
