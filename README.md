@@ -34,6 +34,17 @@ Class distribution:
 
 ![Alt text](Pre-auth/target_ratio.jpg)
 
+* Application ML/Deep Learning Techniques:
+
+1. Create a baseline model as shown below. Hence, we can compare the performance of each ML/Deep Learning techniques with it. It is achieved by generating random numbers equal to the number of classes and randomly distribute it accross the length of the data.
+Reference: https://stackoverflow.com/questions/18659858/generating-a-list-of-random-numbers-summing-to-1/18662466#18662466
+
+Class report of Baseline model shows 0.50 recall and precision:
+
+
+
+![Alt text](Pre-auth/target_ratio.jpg)
+3.
 
 ## BitCoin Price Forcasting:
 ## Project name: Clear TPA
