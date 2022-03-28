@@ -47,7 +47,7 @@ Class report of Baseline model shows 0.50 recall and precision:
 2. AUC of all algorithms:
 
 a. Navie Bayes-AUC Curve:
-
+![Alt text]()
 
 
 3. Performance Comparison after applying ML/DL techniques:
