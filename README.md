@@ -4,7 +4,7 @@
 The aim of portfolio is to represent my accomplishment with Data Science technique and how it benefited the business models, exhibiting the difference in the business model before and after implementing these techniques. 
 
  
-### Business Case Studies:
+# Business Case Studies:
 ## Claim Denial Prediction:
 * Problem statement:In healthcare  billing system there are at least 10% claims gets denied for verious reason. The affort to appeal and reverse those claims costs time and money and in many cases the appeals time limit excesseds and billing company has to bare losses. But if we get to know which claim is going to deny and which will be paid billing company will have plan of action prior to denial of the claim and hence can save the losses due to denials.
 
