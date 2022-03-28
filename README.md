@@ -47,6 +47,7 @@ Class report of Baseline model shows 0.50 recall and precision:
 
 2. Performance Comparison after applying ML/DL techniques:
 
+![Alt text](Pre-auth/Preauth_score.jpg)
 
 
 
