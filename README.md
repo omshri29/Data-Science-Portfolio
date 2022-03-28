@@ -28,6 +28,7 @@ The aim of portfolio is to represent my accomplishment with Data Science techniq
 8. cpt_description :- It represents the name of the medical procedure. 
 9. icd_description :- It the diseases of the patient diagnosed by a doctor. 
 10. pat_age : Patients age in days.
+11. Pre-auth/CAPP-Model_gitcopy.ipynb
 
 * EDA
 Class distribution: 
@@ -54,6 +55,8 @@ Class report of Baseline model shows 0.50 recall and precision:
 Based on the scores in XGB scores are more consistant with F1 scores among the Train, Test and sc and another model is Random forest which also close to XGB scores.
 
 XGB is best for deployment. 
+
+[Please refer the ipython notebook](https://github.com/omshri29/Data-Science-Portfolio/blob/a2f957b258d9f5494772319f7f0556cc9db1309e/TPA/TPA%20models%20with%20master%20payor%20and%20original%20payor%20name.ipynb)
 
 ## BitCoin Price Forcasting:
 ## Project name: Clear TPA
