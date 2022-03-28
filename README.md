@@ -82,6 +82,10 @@ i. XGBoost - AUC Curve
 
 ![Alt text](Pre-auth/preauth_xgb_auc.jpg)
 
+j. Multilayered percepton -AUC Curve
+
+![Alt text](Pre-auth/MLP_AUC_curve.jpg)
+
 3. Performance Comparison after applying ML/DL techniques:
 
 ![Alt text](Pre-auth/Preauth_score.jpg)
