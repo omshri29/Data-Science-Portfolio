@@ -83,7 +83,7 @@ Reference: https://stackoverflow.com/questions/18659858/generating-a-list-of-ran
 
 9. xgboost - AUC 
 
-![Alt text](ClaimDenial/claim_xgboost_auc.jpg)
+![Alt text](Pre-auth/claim_xgb_classreport.jpg)
 
 9.1 Xgboost Classification report
 
