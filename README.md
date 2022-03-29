@@ -80,7 +80,7 @@ Class Report: With 0.50 f1 macro means no predicting power.
 
 9. xgboost - AUC 
 
-![Alt text](ClaimDenial/claim_mlp_auc.jpg)
+![Alt text](ClaimDenial/claim_xgboost_auc.jpg)
 
 11. Create a baseline model as shown below. Hence, we can compare the performance of each ML/Deep Learning techniques with it. It is achieved by generating random numbers equal to the number of classes and randomly distribute it accross the length of the data.
 Reference: https://stackoverflow.com/questions/18659858/generating-a-list-of-random-numbers-summing-to-1/18662466#18662466
