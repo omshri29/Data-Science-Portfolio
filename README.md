@@ -41,6 +41,20 @@ Attribute
 
 ![Alt text](ClaimDenial/Denial_group2.jpg)
 
+
+* Application ML/Deep Learning Techniques:
+
+1. Baseline Model
+Class Report
+
+![Alt text](ClaimDenial/Claim_baselineModel.jpg)
+
+
+
+3. Create a baseline model as shown below. Hence, we can compare the performance of each ML/Deep Learning techniques with it. It is achieved by generating random numbers equal to the number of classes and randomly distribute it accross the length of the data.
+Reference: https://stackoverflow.com/questions/18659858/generating-a-list-of-random-numbers-summing-to-1/18662466#18662466
+
+
 ## Authorization Request approval request prediction:
 * Problem statement: In US heatlhcare system before performing/recommending any high-tech radiology exam such as Mri,Ct Scan, Pet Scans etc doctors must optain permission(Pre-Authorization) before performing it. 
 1. This pre-authorization are given by the patients health insurance or by the tpa's which are hired by the heath insurance based on the medical necessity.
