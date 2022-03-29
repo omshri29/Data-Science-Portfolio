@@ -34,6 +34,7 @@ Attribute
 ![Alt text](ClaimDenial/Ins_fsc.jpg)
 
 2. Denial distribution:
+The Data is highly inbalance hence AUC and Accuracy will do well in identifing the good performing model.
 
 ![Alt text](ClaimDenial/Denial_distribution.jpg)
 
@@ -45,13 +46,43 @@ Attribute
 * Application ML/Deep Learning Techniques:
 
 1. Baseline Model
-Class Report
+Class Report: With 0.50 f1 macro means no predicting power. 
 
 ![Alt text](ClaimDenial/Claim_baselineModel.jpg)
 
+2. Navie Bayes - AUC
 
+![Alt text](ClaimDenial/claim_navie_bayes_auc.jpg)
 
-3. Create a baseline model as shown below. Hence, we can compare the performance of each ML/Deep Learning techniques with it. It is achieved by generating random numbers equal to the number of classes and randomly distribute it accross the length of the data.
+3. Logistic Regression- AUC
+
+![Alt text](ClaimDenial/Claim_logistic_auc.jpg)
+
+4. SVM - AUC
+
+![Alt text](ClaimDenial/Claim_logistic_auc.jpg)
+
+5. Decision Tree- AUC 
+
+![Alt text](ClaimDenial/claim_decisiontree_auc.jpg)
+
+6. Random Forest - AUC
+
+![Alt text](ClaimDenial/claim_RandomForest_auc.jpg)
+
+7. Adaboost - AUC
+
+![Alt text](ClaimDenial/claim_adaboost_auc.jpg)
+
+8. MLP - AUC
+
+![Alt text](ClaimDenial/claim_mlp_auc.jpg)
+
+9. xgboost - AUC 
+
+![Alt text](ClaimDenial/claim_mlp_auc.jpg)
+
+11. Create a baseline model as shown below. Hence, we can compare the performance of each ML/Deep Learning techniques with it. It is achieved by generating random numbers equal to the number of classes and randomly distribute it accross the length of the data.
 Reference: https://stackoverflow.com/questions/18659858/generating-a-list-of-random-numbers-summing-to-1/18662466#18662466
 
 
