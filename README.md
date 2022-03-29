@@ -47,6 +47,9 @@ The Data is highly inbalance hence AUC and Accuracy will do well in identifing t
 
 1. Baseline Model
 Class Report: With 0.50 f1 macro means no predicting power. 
+Create a baseline model as shown below. Hence, we can compare the performance of each ML/Deep Learning techniques with it. It is achieved by generating random numbers equal to the number of classes and randomly distribute it accross the length of the data.
+Reference: https://stackoverflow.com/questions/18659858/generating-a-list-of-random-numbers-summing-to-1/18662466#18662466
+
 
 ![Alt text](ClaimDenial/Claim_baselineModel.jpg)
 
@@ -81,9 +84,6 @@ Class Report: With 0.50 f1 macro means no predicting power.
 9. xgboost - AUC 
 
 ![Alt text](ClaimDenial/claim_xgboost_auc.jpg)
-
-11. Create a baseline model as shown below. Hence, we can compare the performance of each ML/Deep Learning techniques with it. It is achieved by generating random numbers equal to the number of classes and randomly distribute it accross the length of the data.
-Reference: https://stackoverflow.com/questions/18659858/generating-a-list-of-random-numbers-summing-to-1/18662466#18662466
 
 
 ## Authorization Request approval request prediction:
