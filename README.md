@@ -28,9 +28,18 @@ Attribute
 12. Is_Facility: The Medical center or diagnostic is in contract with the payer or not 
 13. dx_grp: Diseases group
 
-* EDA
+* EDA:
+1. Insurances 
 
+![Alt text](ClaimDenial/Ins_fsc.jpg)
 
+2. Denial distribution:
+
+![Alt text](ClaimDenial/Denial_distribution.jpg)
+
+3. Denial types:
+
+![Alt text](ClaimDenial/Denial_group2.jpg)
 
 ## Authorization Request approval request prediction:
 * Problem statement: In US heatlhcare system before performing/recommending any high-tech radiology exam such as Mri,Ct Scan, Pet Scans etc doctors must optain permission(Pre-Authorization) before performing it. 
