@@ -87,7 +87,7 @@ Reference: https://stackoverflow.com/questions/18659858/generating-a-list-of-ran
 
 9.1 Xgboost Classification report
 
-![Alt text](Pre-auth/claim_xgb_classreport.jpg)
+![Alt text](Pre-auth/claim_xgboost_auc.jpg)
 
 * Conclusion: 
 
