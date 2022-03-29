@@ -95,7 +95,7 @@ Based on the scores in XGB scores are more consistant with F1 scores among the T
 
 XGB is best for deployment. 
 
-[Please refer the ipython notebook](https://github.com/omshri29/Data-Science-Portfolio/blob/a2f957b258d9f5494772319f7f0556cc9db1309e/TPA/TPA%20models%20with%20master%20payor%20and%20original%20payor%20name.ipynb)
+[Please refer the ipython notebook](ClaimDenial/AR.ipynb)
 
 ## Authorization Request approval request prediction:
 * Problem statement: In US heatlhcare system before performing/recommending any high-tech radiology exam such as Mri,Ct Scan, Pet Scans etc doctors must optain permission(Pre-Authorization) before performing it. 
